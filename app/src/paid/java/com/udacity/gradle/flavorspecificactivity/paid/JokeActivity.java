@@ -3,7 +3,9 @@ package com.udacity.gradle.flavorspecificactivity.paid;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity123 extends AppCompatActivity {
+import com.udacity.gradle.flavorspecificactivity.R;
+
+public class JokeActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
